@@ -1,0 +1,10 @@
+C:\Users\kakit\source\repos\MenuChef\MenuChef\bin\Debug\MenuChef.exe.config
+C:\Users\kakit\source\repos\MenuChef\MenuChef\bin\Debug\MenuChef.exe
+C:\Users\kakit\source\repos\MenuChef\MenuChef\bin\Debug\MenuChef.pdb
+C:\Users\kakit\source\repos\MenuChef\MenuChef\obj\Debug\MenuChef.csprojAssemblyReference.cache
+C:\Users\kakit\source\repos\MenuChef\MenuChef\obj\Debug\MenuChef.Form1.resources
+C:\Users\kakit\source\repos\MenuChef\MenuChef\obj\Debug\MenuChef.Properties.Resources.resources
+C:\Users\kakit\source\repos\MenuChef\MenuChef\obj\Debug\MenuChef.csproj.GenerateResource.cache
+C:\Users\kakit\source\repos\MenuChef\MenuChef\obj\Debug\MenuChef.csproj.CoreCompileInputs.cache
+C:\Users\kakit\source\repos\MenuChef\MenuChef\obj\Debug\MenuChef.exe
+C:\Users\kakit\source\repos\MenuChef\MenuChef\obj\Debug\MenuChef.pdb
